@@ -1,1 +1,1 @@
-# OIBSIB-Task-5 Stopwatch-
+# OIBSIB-Task-5 Stopwatch
